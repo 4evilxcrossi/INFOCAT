@@ -7,7 +7,7 @@ IF U HAVE ANY QUERIES U CAN connect with me <Mail crossi1782004@gmail.com> or <I
 This tool will be updated and upgraded in future......
 
 =================================================================STEP==================================================================
-1. git clone <link>
+1. git clone https://github.com/4evilxcrossi/INFOCAT
 2. cd INFOCAT
 3. bash setup.sh
 4. Waite for installation
